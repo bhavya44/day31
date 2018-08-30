@@ -1,0 +1,25 @@
+
+Write a program to get two integers from the user and print the sum of the two integers?
+Write a function to add two integers. (demo) 
+Write a program to get two float from the user and print the sum of the two float?
+Write a function to add two float. (demo)
+Write a function to compare 2 numbers and test it.
+Write a function to compare 3 numbers and test it.
+
+Questions:
+What is the structure of a program?
+What is the difference between %d and %f format specifiers?
+What is a function? 
+What is a function definition?
+What is a function declaration?
+Why do you need function declaration?
+What are the formal parameters?
+What are the actual parameters?
+What is the meaning of pass by value?
+What is the meaning of pass by reference?
+List all syntax errors and reason for the syntax errors.
+What is the meaning of floating point number?
+
+Interesting questions
+Is there a limit to how big an integer can be me in c program?
+Is there a limit to how big a floating point number can be in a c program
